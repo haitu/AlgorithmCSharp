@@ -1,0 +1,6 @@
+C:\Data\Projects\TestAlg2\TestAlg2\bin\Debug\TestAlg2.exe.config
+C:\Data\Projects\TestAlg2\TestAlg2\bin\Debug\TestAlg2.exe
+C:\Data\Projects\TestAlg2\TestAlg2\bin\Debug\TestAlg2.pdb
+C:\Data\Projects\TestAlg2\TestAlg2\obj\Debug\TestAlg2.csprojResolveAssemblyReference.cache
+C:\Data\Projects\TestAlg2\TestAlg2\obj\Debug\TestAlg2.exe
+C:\Data\Projects\TestAlg2\TestAlg2\obj\Debug\TestAlg2.pdb
